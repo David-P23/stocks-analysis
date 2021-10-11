@@ -10,6 +10,12 @@ thousands of stocks at a time.
 
 ## Results
 The resulting refactored code cleaner, better organized, and executed faster then the original, as shown:
+Original Code Results:
+![VBA_Challenge_2017_OriginalCode](https://user-images.githubusercontent.com/91306342/136732897-053daa22-fed3-4575-a764-84a259511a28.PNG)
+![VBA_Challenge_2018_OriginalCode](https://user-images.githubusercontent.com/91306342/136732961-ec7a9e7b-af1a-47d7-847b-881d2a3234bb.PNG)
+Refactored Code Results:
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/91306342/136733057-f6892f63-38c6-43dd-b4e4-c00740a963a3.PNG)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/91306342/136733074-0685ef5d-e974-4c0e-9962-130ae958cd31.png)
 
 The results also show that the initial hypothesis that DQ is a great pick is faulty. The stock demonstrated
 more volatility than many of the others and did not demonstrate positive trends or traits that set it apart.
